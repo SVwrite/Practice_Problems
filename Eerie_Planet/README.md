@@ -3,7 +3,7 @@
 ###Link : https://www.hackerearth.com/practice/data-structures/queues/basics-of-queues/practice-problems/algorithm/weird-planet-2000a170/
 
 --------------------------
-##Status : Unsolved
+##Status : Partially Accepted
 --------------------------
 You own a club on eerie planet. The day on this planet comprises of H hours. You appointed C crew members to handle the huge crowd that you get, being the best club on the planet. Each member of the crew has fixed number of duty hours to work. There can be multiple or no crew members at work at any given hour of the day.
 Being on weird planet, the rules of this club cannot be normal. Each member of the crew only allows people who are taller than him to enter the club when he is at work.
